@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![pear](file:///C:/Users/henry/OneDrive/Pictures/pears_commodity-page.webp)
